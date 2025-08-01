@@ -1,0 +1,2 @@
+# finmodelai
+Financial modeling assistant 
